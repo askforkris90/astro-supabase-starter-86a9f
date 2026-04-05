@@ -1,4 +1,39 @@
-# Astro Supabase Starter
+# Astro + Supabase Starter
+
+## 🚀 Announcement
+
+**The Astro template has been officially selected as the foundation for this starter project!**
+With community input and recent votes, we're moving forward to build and maintain this repo using Astro as the primary framework. Stay tuned for new features and improvements focused on an Astro + Supabase developer experience.
+
+---
+
+## 🌟 Introduction
+
+Welcome to the Astro + Supabase Starter!
+This project is designed to help you quickly launch modern web apps using the speed and flexibility of Astro with the powerful backend capabilities of Supabase.
+
+### What you get:
+
+- Clean Astro setup for modern, performant web apps
+- Out-of-the-box integration with Supabase (authentication, database, and more)
+- Easily extensible structure for adding features
+- Developer-friendly configuration and documentation
+
+---
+
+> Get started building your next project with Astro + Supabase!
+
+---
+
+## 🚦 Launch Temporary Site
+
+Test out the latest version with a live deployment:
+
+<a href="https://astro-supabase-starter-demo.vercel.app">Launch the Demo Site</a>
+
+*Note: Replace the demo URL above with your actual deployment preview link if different.*
+
+---
 
 ![Astro Supabase Starter Preview](astro-supabase-starter-preview.png)
 
